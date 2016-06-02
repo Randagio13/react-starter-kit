@@ -1,0 +1,6 @@
+{
+  "extends": "reactjs",
+  "rules": {
+    "semi": [ 2, "never"]
+  }
+}
