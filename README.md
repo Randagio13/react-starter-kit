@@ -1,4 +1,4 @@
-# react-starter-kit
+# React starter kit
 
 Simple React project starter kit
 
